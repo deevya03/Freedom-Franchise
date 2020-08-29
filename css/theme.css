@@ -289,10 +289,10 @@
     
     .main-menu>li>a:hover {
         border-top-color: #4D90CD;
+        color: #4D90CD;
     }
     
     .main-menu>li.active>a {
-        border-top-color: #4D90CD;
         color: #4D90CD;
     }
     
